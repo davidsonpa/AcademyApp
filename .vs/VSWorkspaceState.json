@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\resources",
+    "\\resources\\android",
+    "\\src",
+    "\\src\\app",
+    "\\src\\assets\\icon",
+    "\\src\\assets\\imgs",
+    "\\src\\pages",
+    "\\src\\pages\\login",
+    "\\src\\providers"
+  ],
+  "SelectedNode": "\\src\\pages\\login\\login.html",
+  "PreviewInSolutionExplorer": false
+}
